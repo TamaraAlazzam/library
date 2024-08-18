@@ -1,0 +1,22 @@
+.book-detail-container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.book-detail-container h1 {
+  margin-bottom: 16px;
+  font-size: 28px;
+}
+
+.book-detail-container p {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.book-detail-container p strong {
+  font-weight: bold;
+}
